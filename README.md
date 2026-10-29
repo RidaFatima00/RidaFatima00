@@ -54,6 +54,6 @@ Hi , I'm an aspiring Front-End Developer currently learning Web Development cour
   <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=RidaFatima00&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 ### MY PORTFOLIO LIVE LINK 
-<a href="https://preview--warm-work-storybook.lovable.app/?__lovable_receipt=mat_3850x33a1b9v4sadkt1ygmn73d">RidaFatima00</a>
-
+<a href="https://preview--warm-work-storybook.lovable.app/?__lovable_receipt=mat_3850x33a1b9v4sadkt1ygmn73d"></a>
+<br>
 <p align="center"><i>⭐️ From <a href="https://github.com/RidaFatima00">RidaFatima00</a></i></p>
